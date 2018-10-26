@@ -6,3 +6,5 @@ def is_prime(a):
         return True
 a=int(input("which number you would like to check?: "))
 print(is_prime(a))
+a=0
+print(a)
